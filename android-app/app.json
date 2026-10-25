@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Sachren Hospital",
+    "slug": "sachren-hospital",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "sachrenhospital",
+    "android": {
+      "package": "in.sachrenhospital.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F2E9"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
